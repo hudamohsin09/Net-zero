@@ -1,0 +1,90 @@
+Activity Type,Emission Resource,Dataset Name
+Purchased Goods and Services,Marketing and advertising (print),Victorian EPA 2021 (Spend-based)
+Employee Commuting,Public transportation ,Victorian EPA 2021
+Purchased Goods and Services,Catering services ,Victorian EPA 2021 (Spend-based)
+Direct Emissions - Refrigerants,Methylene chloride,IPCC AR4 2007
+Direct Emissions - Refrigerants,R-507,IPCC AR5 2014
+Direct Emissions - Other Gases,Nitrogen trifluoride,IPCC AR6 2022
+Direct Emissions - Other Gases,Methyl chloroform,IPCC AR4 2007
+Direct Emissions - Other Gases,HFE-245fa2,IPCC AR6 2022
+Direct Emissions - Other Gases,CF4,IPCC AR4 2007
+Direct Emissions - Other Gases,SF6,IPCC AR4 2007
+Direct Emissions - Other Gases,HFE-43-10pccc124 (H-Galden1040x),IPCC AR4 2007
+Direct Emissions - Other Gases,HFE-143a,IPCC AR4 2007
+Direct Emissions - Other Gases,"2,2,3,3,4,4,5,5-octafluorocyclopentan-1-ol",IPCC AR6 2022
+Direct Emissions - Other Gases,(e)-hex-2-en-1-ol,IPCC AR6 2022
+Electricity: Location-based,Electricity: Mexico,IEA 2022
+Electricity: Market-based (non-renewable),Electricity: Mexico,IEA 2021
+Business Travel,Diesel rental car,NZ Gov 2022
+Use of Sold Products,Water supply,DEFRA 2022
+Business Travel,Hotel stay - New Zealand,DEFRA 2022
+Business Travel,Petrol rental car,DEFRA 2022
+Waste Generated in Operations,Organic waste to landfill,NZ Gov 2022
+Electricity: Location-based,Electricity: RFCW (RFC West),US EPA eGRID 2020
+Electricity: Location-based,Electricity: SRMV (SERC Mississippi Valley),US EPA eGRID 2018
+Electricity: Location-based,Electricity: ERCT (ERCOT All),US EPA eGRID 2018
+Electricity: Market-based (non-renewable),Electricity: HIMS (HICC Miscellaneous),US EPA eGRID 2021
+Electricity: Location-based,Electricity: RFCE (RFC East),US EPA eGRID 2018
+Electricity: Market-based (non-renewable),Electricity: NYUP (NPCC Upstate NY),US EPA eGRID 2018
+Electricity: Location-based,Electricity: Mainland China,CN MEE 2022
+Electricity: Market-based (non-renewable),Electricity: Mainland China,CN MEE 2022
+Electricity: Location-based,Electricity: Mainland China,CN MEE 2022
+Electricity: Market-based (non-renewable),Electricity: Mainland China,CN MEE 2022
+Fuel and Energy Related Activities,WTT - Overseas Electricity: Netherlands (T&D),DEFRA 2021
+Fuel and Energy Related Activities,WTT - Overseas Electricity: Romania (generation),DEFRA 2021
+Fuel and Energy Related Activities,WTT - Overseas Electricity: Ukraine (T&D),DEFRA 2021
+Fuel and Energy Related Activities,WTT - Overseas Electricity: Belgium (generation),DEFRA 2021
+Electricity: Location-based,Electricity: UK,DEFRA 2022
+Electricity: Market-based (non-renewable),Electricity: UK,DEFRA 2022
+Upstream Leased Assets (If consumption known),Electricity: UK,DEFRA 2022
+Fuel and Energy Related Activities,WTT - Overseas Electricity: Greece (T&D),DEFRA 2021
+Fuel and Energy Related Activities,WTT - Overseas Electricity: Gibraltar (T&D),DEFRA 2022
+Fuel and Energy Related Activities,WTT - Overseas Electricity: Germany (generation),DEFRA 2021
+Fuel and Energy Related Activities,T&D - UK electricity,DEFRA 2022
+Fuel and Energy Related Activities,WTT - Overseas Electricity: Latvia (generation),DEFRA 2021
+Fuel and Energy Related Activities,WTT - Overseas Electricity: Brazil (generation),DEFRA 2021
+Direct Emissions - Refrigerants,R-236fa,IPCC AR5 2014
+Fuel and Energy Related Activities,Wood pellets,DEFRA 2022
+Fuel and Energy Related Activities,Fuel oil,DEFRA 2022
+Use of Sold Products,Fuel oil,DEFRA 2022
+Upstream Leased Assets (If consumption known),Fuel oil,DEFRA 2022
+Capital Goods / CAPEX,Asphalt,DEFRA 2022
+Stationary Combustion Sources - Heat Generation,Petrol (average biofuel blend),DEFRA 2022
+5.2 - Business loans and unlisted equity,"Recreational, cultural and sporting activities ",Exiobase 2019
+5.2 - Business loans and unlisted equity,Processing of dairy products,Exiobase 2019
+Capital Goods / CAPEX,Naphtha,Exiobase 2019
+Top-Down,Manufacture of electrical machinery and apparatus n.e.c. ,Exiobase 2019
+Capital Goods / CAPEX,Other non-ferrous metal products,Exiobase 2019
+5.2 - Business loans and unlisted equity,Post and telecommunications ,Exiobase 2019
+Purchased Goods and Services,Precious metal ores and concentrates,Exiobase 2019
+Purchased Goods and Services,Inland water transportation services,Exiobase 2019
+Fuel and Energy Related Activities,Electricity: Tasmania_2019,DEFRA 2022
+Fuel and Energy Related Activities,Electricity: Victoria_2019,AU NGA 2021
+Fuel and Energy Related Activities,Electricity: QLD_2019,AU NGA 2021
+Electricity: Location-based,Electricity: Tasmania_2019,AU NGA 2021
+Electricity: Market-based (non-renewable),Electricity: South Australia_2020 Estimate,AU NGA 2021
+Electricity: Market-based (non-renewable),Electricity: NSW and ACT_2020 Estimate,AU NGA 2021
+Fuel and Energy Related Activities,Electricity: Australia Average_2020 Estimate,AU NGA 2021
+5.1 - Listed equity and corporate bonds,Clothing and clothing accessories stores,Exiobase 2019
+Purchased Goods and Services,Telecommunications,US EEIO 2018
+Purchased Goods and Services,Military armored vehicles and tanks,Exiobase 2019
+5.1 - Listed equity and corporate bonds,Electromedical and electrotherapeutic apparatus manufacturing,US EEIO 2018
+Capital Goods / CAPEX,"Lids, jars, bottle caps, other metal closures and crowns",Exiobase 2019
+Capital Goods / CAPEX,Veterinarians,US EEIO 2018
+Downstream Leased Assets (If consumption known),Electricity: Uganda,IEA 2022
+Electricity: Location-based,Electricity: Indonesia,IEA 2022
+Processing of Sold Products,Electricity: Togo,IEA 2021
+Processing of Sold Products,Electricity: Kyrgyzstan,IEA 2022
+Processing of Sold Products,Electricity: Korea,IEA 2022
+Franchises (If consumption known),Electricity: Other non-OECD Asia,IEA 2022
+Franchises (If consumption known),Electricity: OECD Total,IEA 2021
+Franchises (If consumption known),Electricity: Mozambique,IEA 2022
+Franchises (If consumption known),Electricity: Mongolia,IEA 2021
+Electricity: Market-based (non-renewable),Electricity: Iceland,IEA 2022
+Upstream Leased Assets (If consumption unknown),Energy consumption in Distribution Centre (natural gas),PEFCR Guidance 2018
+Downstream Leased Assets (If consumption unknown),Energy consumption in Distribution Centre (natural gas),PEFCR Guidance 2018
+Franchises (If consumption unknown),Energy consumption in Distribution Centre (natural gas),PEFCR Guidance 2018
+Downstream Leased Assets (If consumption known),Electricity: Austria,IEA 2021
+Electricity: Market-based (non-renewable),Electricity: Kingdom of Eswatini,IEA 2022
+Electricity: Market-based (non-renewable),Electricity: Myanmar,IEA 2021
+Use of Sold Products,Electricity: European Union (with UK),IEA 2022
